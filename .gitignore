@@ -1,2 +1,5 @@
 /api/target/
 /eventstore/target/
+
+.idea/
+*.iml
